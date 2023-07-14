@@ -1,0 +1,10 @@
+Popular python libraries :
+numpy
+pandas
+seaborn
+matplotlib
+datetime
+sklearn
+
+Model used:
+DBSCAN 
