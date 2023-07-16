@@ -1,3 +1,10 @@
 Software used:
 Google Collab
 Libraries used:
+- Pandas
+- Numpy
+- Scikit Learn
+- Matplotlib
+- Seaborn
+- NLTK
+- wordcloud
