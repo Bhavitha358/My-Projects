@@ -1,10 +1,12 @@
 Software used:
 Google Collab
+
 Libraries used:
 - Pandas
 - Numpy
 - Scikit Learn
 - Matplotlib
+- Plotly
 - Seaborn
 - NLTK
-- wordcloud
+- Wordcloud
