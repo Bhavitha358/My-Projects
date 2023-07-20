@@ -3,9 +3,9 @@ This is a repository which contains my projects where I have used Tech Stacks as
 ### Machine Learning
         Contact Tracing in Health Care
 ### Natural Language Processing
-        Amazon Product Reviews Sentiment Analysis
+        Amazon Fine Food Product Reviews Sentiment Analysis
 ### Object Oriented Programming
-        Placement Management System
+        School Accounts Management System
 ### HTML
 ### CSS
 ## Personal Projects
